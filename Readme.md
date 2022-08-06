@@ -6,7 +6,18 @@
 PC, Oculusにてそれぞれ実施。  
 
 * apkファイル  
-Oculusなど、VRにアプリをインストールすることでプレイ可能となります。  
+VRデバイス(Meta Quest2など)にapkアプリをインストールすることでプレイ可能となります。  
+インストール後のプレイまでの流れは各デバイスの実行方法に従ってください。  
+
+## 動画確認 ・ apk DL方法
+対象ファイルはGitLFSにてアップロードしておりますので、そのままの視聴は出来ないかと思われます。  
+
+リポジトリ内対象ファイルのURLにアクセス。
+(例: https://github.com/ShoichiKosuge101/PuppetAndOwner/blob/master/PuppetAndOwner_PlayingMovie_apk_20220806.mp4 )  
+右側の `Download` から対象ファイルをローカルにダウンロード  
+![aa](screenshot_2022-08-06_230628.png)
+
+ローカルからファイルを実行する。  
 
 ## 遊び方
 * VRキャラクターはミニキャラクターに視点を移すことができます。
